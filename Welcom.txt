@@ -1,0 +1,2 @@
+print("Welcom");
+print(what's up );
